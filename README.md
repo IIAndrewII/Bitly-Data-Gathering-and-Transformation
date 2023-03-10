@@ -30,7 +30,9 @@ The text file comes in JSON format and here are the important keys and their des
 
 ### 2- Create CSV file having the following columns:
 - web_browser
+
         The web browser that has requested the service
+        
 - operating_sys
         operating system that intiated this request
 - from_url
