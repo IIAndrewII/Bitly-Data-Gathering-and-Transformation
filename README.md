@@ -28,7 +28,7 @@ The text file comes in JSON format and here are the important keys and their des
 
 ### 1- Write a script can transform the JSON files to a DataFrame 
 
-### 2- Final CSV file must have the following columns:
+### 2- Create CSV file having the following columns:
 - web_browser
         The web browser that has requested the service
 - operating_sys
