@@ -34,7 +34,9 @@ The text file comes in JSON format and here are the important keys and their des
         The web browser that has requested the service
         
 - operating_sys
+
         operating system that intiated this request
+        
 - from_url
 
         The main URL the user came from
@@ -54,6 +56,7 @@ The text file comes in JSON format and here are the important keys and their des
 - longitude
 
         The longitude where the request was sent
+        
 - latitude
 
         The latitude where the request was sent
@@ -65,6 +68,7 @@ The text file comes in JSON format and here are the important keys and their des
 - time_in
 
         Time when the request started
+        
 - time_out
         
         Time when the request is ended
